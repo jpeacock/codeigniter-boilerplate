@@ -1,0 +1,4 @@
+mongo-logs
+logs/log-*.php
+public_html/cache/*
+tools/
